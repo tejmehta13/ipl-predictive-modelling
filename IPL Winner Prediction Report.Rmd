@@ -1399,7 +1399,7 @@ The following segments in particular were explored:
 - Head-to-head dynamics: to identify persistent matchup advantages between teams.
 - Venue effects: to determine whether teams benefit from playing at specific grounds (including exploring home ground advantage).
 
-## 2.1 Historical Team Strength
+## Historical Team Strength
 Historical team strength is important to understand as this provides the context behind which franchise has won the most games over each season, and thereby, increasing the likelihood of them winning the championship. Teams with consistently strong performance across seasons are more likely to exhibit higher underlying quality in terms of squad composition, management, and tactical execution.
 
 ```{r, echo=FALSE}
